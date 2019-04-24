@@ -1,7 +1,15 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zoomeye2048/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![npm][npm]][npm-url]
 
+[![node][node]][node-url]
+[![deps][deps]][deps-url]
+[![tests][tests]][tests-url]
+[![builds][builds]][builds-url]
+[![builds2][builds2]][builds2-url]
+[![coverage][cover]][cover-url]
+[![licenses][licenses]][licenses-url]
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
